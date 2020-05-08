@@ -1,5 +1,5 @@
 <h1 style="font-size:25px">Simple Android calculator with Kathleen</h1>
-<h2 style="font-size:20px">
+<h2 style="font-size:20px" dir="rtl">
 ماشین حساب ساده اندروید با کاتلین
 </h2>
 
